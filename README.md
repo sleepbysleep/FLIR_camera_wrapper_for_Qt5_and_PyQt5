@@ -55,4 +55,8 @@ Set FLIR_GENTL64_CTI to /opt/spinnaker/lib/flir-gentl/FLIR_GenTL.cti
 # Screenshots
 For Qt,
 
+![alt Qt Camera](https://github.com/sleepbysleep/FLIR_camera_wrapper_for_Qt5_and_PyQt5/blob/main/Screenshot_2021-04-05_13-59-19.png?raw=true)
+
 For PyQt5,
+
+![alt PyQt Camera](https://github.com/sleepbysleep/FLIR_camera_wrapper_for_Qt5_and_PyQt5/blob/main/Screenshot_2021-04-05_14-00-11.png?raw=true)
